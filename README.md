@@ -5,7 +5,7 @@
 ## Description
 >This is a simple student registration and certificate management system in php completely developed using ChatGPT. It has an Admin login where you can register students, Issue certificate for them when their course has finished, Later anyone can validate the certificate by certificate ID.
 
->  Motive of sharing this repo is to aware people how much chatGPT is powerful and can be useful in your coding needs.
+>  Motive of sharing this project is to aware people how much chatGPT is powerful and can be useful in your coding needs.
 
 ## Features and Functions of the portal:
 
